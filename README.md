@@ -1,12 +1,11 @@
 # ⛏️ Zyfra Gold Predictor: Optimizando la Extracción de Oro 🪙✨
 
-## 1) Título comercial del proyecto
-**Zyfra Gold Predictor** — Predicción de oro extraído para optimizar la producción.
+## 1) **Zyfra Gold Predictor** — Predicción de oro extraído para optimizar la producción.
 
-## 2) Descripción breve del problema
+## 2) Descripción:
 En la minería de oro, variaciones mínimas en las etapas de **extracción** y **purificación** impactan la rentabilidad. **Zyfra** busca un modelo de ML que anticipe la **cantidad de oro obtenido** a partir de parámetros de proceso, para **reducir desperdicios** y **eliminar configuraciones no rentables**.
 
-## 3) Objetivo del proyecto
+## 3) Objetivo general:
 Desarrollar un prototipo de **modelo de regresión** que prediga la cantidad de oro extraído (target) usando datos históricos de proceso, con foco en:
 - Preparación y validación de datos.
 - Selección de variables relevantes.
