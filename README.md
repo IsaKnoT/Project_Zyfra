@@ -1,5 +1,7 @@
 # ⛏️ Zyfra Gold Predictor: Optimizando la Extracción de Oro 🪙✨
 
+![Banner Mineria](Banner%20Mineria.jpg)
+
 ## 1) **Zyfra Gold Predictor** — Predicción de oro extraído para optimizar la producción.
 
 ## 2) Descripción:
